@@ -29,7 +29,7 @@ Examples : Input --> LEVEL
 int main ()
 {
     char S[1001], T[1001];
-    scanf("%s %s", &S, &T);
+    scanf("%s %s", S, T);
 
     int lenS = strlen(S);
     int lenT = strlen(T); 
